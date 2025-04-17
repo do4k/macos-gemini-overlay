@@ -8,11 +8,11 @@ from Quartz import (
 )
 
 
-WEBSITE = "https://grok.com?referrer=macos-grok-overlay"
+WEBSITE = "https://gemini.google.com?referrer=macos-gemini-overlay"
 LOGO_WHITE_PATH = "logo/logo_white.png"
 LOGO_BLACK_PATH = "logo/logo_black.png"
-FRAME_SAVE_NAME = "GrokWindowFrame"
-APP_TITLE = "Grok"
+FRAME_SAVE_NAME = "GeminiWindowFrame"
+APP_TITLE = "Gemini"
 PERMISSION_CHECK_EXIT = 1
 CORNER_RADIUS = 15.0
 DRAG_AREA_HEIGHT = 30

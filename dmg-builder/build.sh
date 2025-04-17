@@ -40,7 +40,7 @@
 # # Profile name is arbitrary
 # KEYCHAIN_PROFILE="macos-2025"
 # # The name of the app
-# APP_NAME="macos-grok-overlay"
+# APP_NAME="macos-gemini-overlay"
 # 
 # ---------------------------------------------------------------------
 
